@@ -1,0 +1,21 @@
+# Build outputs
+bin/
+obj/
+*.user
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Logs
+log/
+*.log
+compile.log
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# NuGet
+*.nupkg

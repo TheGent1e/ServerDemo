@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Mysql/Mysql.csproj" Id="6c3876ec-6dcf-4e70-8ce9-1e887b76c2b6" />
+  <Project Path="ServerBase/ServerBase.csproj" Id="45be418b-5300-411b-a149-c716191ed1de" />
+  <Project Path="SimpleServer/SimpleServer.csproj" Id="8f0e40fd-2ab4-42ea-bff4-72d8403a3f13" />
+</Solution>
